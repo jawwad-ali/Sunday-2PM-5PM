@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+form > .p-FieldLabel{
+    color: white !important;
+}
